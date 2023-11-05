@@ -1,0 +1,24 @@
+.tabla-1, .tabla-1 th, .tabla-1 td{
+    border: 1px solid #be615e;
+    border-collapse: collapse;
+
+    padding: 1px 12px;
+}
+.tabla-1 th{
+    background-color: #C0504D;
+}
+
+.tabla-2, .tabla-2 th, .tabla-2 td{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    padding: 0px 12px;
+    text-align: left;
+}
+
+.tabla-1, .tabla-2{
+    text-transform: capitalize;
+}
+
+th.codigo-libro {
+    background-color: white;
+}
